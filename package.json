@@ -1,11 +1,12 @@
 {
   "name": "demo-npm-package",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Demo project to learn publishing to npm",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
   },
-  "author": "Conan Doyle",
-  "license": "MIT"
+  "author": "Conan Doyle (Not Really)",
+  "license": "MIT",
+  "keywords": ["learning", "cool"]
 }
