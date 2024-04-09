@@ -1,5 +1,5 @@
 {
-  "name": "demo-npm-package",
+  "name": "demo-npm-package-147",
   "version": "0.0.1",
   "description": "Demo project to learn publishing to npm",
   "main": "main.js",
@@ -8,5 +8,9 @@
   },
   "author": "Conan Doyle (Not Really)",
   "license": "MIT",
-  "keywords": ["learning", "cool"]
+  "keywords": ["learning", "cool"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhn147/npm-to-publish"
+  }
 }
