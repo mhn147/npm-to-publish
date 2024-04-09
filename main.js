@@ -1,1 +1,1 @@
-console.log("Hello NPM! Updated!");
+console.log("Hello NPM! Updated! I'm at beta now!");
